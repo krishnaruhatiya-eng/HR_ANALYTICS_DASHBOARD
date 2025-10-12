@@ -37,3 +37,8 @@ The dataset contains employee-level details such as:
 - Monthly Income
 - Years at Company
 - Attrition Flag
+
+## Screenshot
+
+![Screenshot](Sample_Output.png)  
+
