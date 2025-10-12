@@ -40,5 +40,5 @@ The dataset contains employee-level details such as:
 
 ## Screenshot
 
-![Screenshot](Sample_Output.png)  
+![Screenshot](https://github.com/krishnaruhatiya-eng/HR_ANALYTICS_DASHBOARD/blob/main/Sample%20Output.png)  
 
