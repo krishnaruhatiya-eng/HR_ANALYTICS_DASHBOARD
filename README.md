@@ -55,8 +55,6 @@ This dashboard was built with a strong focus on **data-driven HR strategy**, hel
 
 Identify key drivers of employee turnover
 
-<img width="1338" height="754" alt="Sample Output" src="https://github.com/user-attachments/assets/0345a826-3ba3-4c14-b499-442b2ccd1aa4" />
-
 Understand workforce distribution
 
 Improve retention initiatives
@@ -64,3 +62,5 @@ Improve retention initiatives
 Strengthen talent management decisions
 
 Support leadership with reliable analytics
+
+<img width="1338" height="754" alt="Sample Output" src="https://github.com/user-attachments/assets/0345a826-3ba3-4c14-b499-442b2ccd1aa4" />
